@@ -1,0 +1,16 @@
+ethod Overloading: multiple different methods having the same name.
+					parameters MUST be different
+
+					ANY method can be overloaded
+
+
+Method Overriding:
+
+Access Modifiers:
+
+	public > protected > default > private
+
+Object Class: presented in "java.lang" package.
+			  parent of all the classes.
+			  implicitly extended to all classes
+
