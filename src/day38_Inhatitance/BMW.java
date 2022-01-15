@@ -1,6 +1,6 @@
 package day38_Inhatitance;
 
-public class BMW extends Car{
+public class BMW extends Car {
 
     public BMW(String model, int year, double price, String color, int miles) {
         super("BMW", model, year, price, color, miles);
@@ -14,6 +14,10 @@ public class BMW extends Car{
         System.out.println(brand + " "+ model +" is a racing car");
     }
 
+
+    public void start() {
+        System.out.println("callmechanic to jump start "+brand+""+model);
+    }
 }
 
 /*
